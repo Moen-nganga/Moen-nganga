@@ -5,7 +5,7 @@
 # Just a Guy Who Loves Coding🖤
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-moen--portfolio.vercel.app-1a1a2e?style=flat&logo=vercel&logoColor=yellow)](https://moen-portfolio.vercel.app)
-[![Email](https://img.shields.io/badge/Email-Gmail-1a1a2e?style=flat&logo=gmail&logoColor=red)](mailto:moenmburu41@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Gmail-1a1a2e?style=flat&logo=gmail&logoColor=red)](https://mail.google.com/mail/?view=cm&fs=1&to=moenmburu41@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-@moen41-1a1a2e?style=flat&logo=telegram&logoColor=26A5E4)](https://t.me/moen41)
 [![GitHub](https://img.shields.io/badge/GitHub-Moen--nganga-1a1a2e?style=flat&logo=github&logoColor=white)](https://github.com/Moen-nganga)
 
